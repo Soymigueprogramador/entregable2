@@ -1,0 +1,38 @@
+[
+     {
+          "nombre": "Miguel",
+          "apellido": "Salazar",
+          "email": "soymigueprogramador@gmail.com",
+          "id": 1
+     },
+     {
+          "nombre": "Juana",
+          "apellido": "Olea",
+          "email": "juana@gmail.com",
+          "id": 2
+     },
+     {
+          "nombre": "Gatito",
+          "apellido": "Delacalle",
+          "email": "amantedelacomida123aol@gmail.com",
+          "id": 3
+     },
+     {
+          "nombre": "nombre1",
+          "apellido": "apellido1",
+          "email": "email1@example.com",
+          "id": 4
+     },
+     {
+          "nombre": "nombre2",
+          "apellido": "apellido2",
+          "email": "email2@example.com",
+          "id": 5
+     },
+     {
+          "nombre": "nombre3",
+          "apellido": "apellido3",
+          "email": "email3@example.com",
+          "id": 6
+     }
+]
