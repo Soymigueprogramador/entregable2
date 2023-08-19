@@ -1,15 +1,9 @@
 [
      {
-          "nombre": "Miguel",
-          "apellido": "Salazar",
-          "email": "soymigueprogramador@gmail.com",
-          "id": 1
-     },
-     {
-          "nombre": "Juana",
-          "apellido": "Olea",
-          "email": "juana@gmail.com",
-          "id": 2
+          "id": 2,
+          "nombre": "nombre_modificado",
+          "apellido": "apellido_modificado",
+          "email": "email2_modificado@example.com"
      },
      {
           "nombre": "Gatito",
